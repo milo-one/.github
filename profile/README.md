@@ -32,4 +32,4 @@ behavioral structures in human–AI interaction.
 
 GitHub: https://github.com/milo-one  
 HuggingFace: https://huggingface.co/milo-one
-Homepage: http://milo-one.de
+Homepage: https://milo-one.de
