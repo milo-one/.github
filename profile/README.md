@@ -5,7 +5,7 @@ It operates as the technical environment of the preregistered research program
 **Computational Behavioral Linguistics (CBL)**.
 
 📄 Preregistration (Zenodo):  
-https://doi.org/10.5281/zenodo.18878139
+https://doi.org/10.5281/zenodo.18878138
 
 ---
 
